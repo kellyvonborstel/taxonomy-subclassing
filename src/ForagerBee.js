@@ -1,0 +1,2 @@
+var ForagerBee = function() {
+};
