@@ -1,9 +1,8 @@
 {
   "name": "BeesBeesBees",
   "version": "0.0.1",
-  "homepage": "https://github.com/remotebeta-labs/BeesBeesBees",
-  "description": "Fun with pseudoclassical sub-classing in js (also bees)",
-  "main": "test/index.html",
+  "description": "Pseudoclassical subclassing in JavaScript",
+  "main": "spec/SpecRunner.html",
   "authors": [
     "Hack Reactor Remote Beta"
   ],
